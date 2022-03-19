@@ -10,7 +10,7 @@ yolo源码下载地址：https://github.com/ultralytics/yolov5
 
 Pytorch官网：https://pytorch.org/
 
-无Nvidia显卡则选择CPU版本：![image-20220319230805182](C:\Users\27410\AppData\Roaming\Typora\typora-user-images\image-20220319230805182.png)
+无Nvidia显卡则选择CPU版本：![image-20220319230805182](https://github.com/Geek3600/Pictures/blob/main/image-20220319230805182.png)
 
 在虚拟环境中执行安装指令即可
 
