@@ -4,7 +4,8 @@ yolo源码下载地址：https://github.com/ultralytics/yolov5
 
 * 利用Anaconda创建Python3.8的虚拟环境，之后在虚拟环境中配置yolo![image-20220319230411143](https://github.com/Geek3600/Pictures/blob/main/image-20220319230411143.png)
 
-* clone之后需先安装依赖 —— requestments.txt文件（其中可能有些包的下载需要梯子）![image-20220319230229443](https://github.com/Geek3600/Pictures/blob/main/image-20220319230229443.png)
+* clone之后需先安装依赖 —— requestments.txt文件（其中可能有些包的下载需要梯子）
+![image-20220319230229443](https://github.com/Geek3600/Pictures/blob/main/image-20220319230229443.png)
 
 ## Pytorch安装
 
