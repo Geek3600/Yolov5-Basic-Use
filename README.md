@@ -4,4 +4,5 @@
   * data：包括测试用到的四张图片文件
   * runs: 包含运行结果的图片文件
   * weights: 包含用到的权重文件
+  * detect.py: yolo的官方例程
   
